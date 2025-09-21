@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//naia//SQ Roster Oct 2025 — Soft Reminders//EN
+PRODID:-//naia//Miso Soup 10//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:SQ Roster 10/25 (Soft Reminders)
+X-WR-CALNAME:October
 
 ############################
 # DARK BLUE = EX-SIN LAYOVER (ALARMS)
